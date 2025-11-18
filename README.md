@@ -1,2 +1,2 @@
-# MIS310-Python
-Python Projects 
+# MIS310-1
+Python Project 1
