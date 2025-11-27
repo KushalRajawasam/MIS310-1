@@ -4,4 +4,7 @@
 - It allows the user to enter two numbers and perform one of the four basic arithmetic operations.
 
 - The program can add, subtract, divide or multiply two numbers. 
+- It also prevents division by zero and shows an error message if an invalid operator is entered.
+
+- The program takes two numbers and an operator from the user, performs the calculation, and displays the result while checking for errors.
 
