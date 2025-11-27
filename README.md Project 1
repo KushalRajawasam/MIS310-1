@@ -1,2 +1,5 @@
 # Python Project 1
 
+This is a basic command-line calculator program written in Python.  
+It allows the user to enter two numbers and perform one of the four basic arithmetic operations.
+
